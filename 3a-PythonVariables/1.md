@@ -42,7 +42,7 @@ Here is the reference material.
 
 * [Dive into Python] (http://www.diveintopython.net/toc/index.html)
 * [Software Carpentry's Python Lectures] (http://software-carpentry.org/4_0/python/)
-* [IPython: A System for Interactive Scientific Computing] (http://dx.doi.org/10.1109/MCSE.2007.53)
+* [IPython: A System for Interactive Scientific Computing] (https://doi.org/10.1109/MCSE.2007.53)
 * [How to Think Like a Computer Scientist] (http://www.greenteapress.com/thinkpython/thinkpython.html)
 
 Once we briefly deal with ipython, I'll cover python in the following order:
